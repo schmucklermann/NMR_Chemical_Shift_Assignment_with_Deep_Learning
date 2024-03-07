@@ -1,0 +1,216 @@
+Number of free parameters: 32866
+Unfiltered
+Epoch [0/20], VALID loss: 0.29, Accuracy Mean: 0.01, Accuracy RNDM: 0.01
+New best model found with loss= 0.288
+Epoch [0/20], TRAIN loss: 0.19
+Epoch [1/20], VALID loss: 0.19, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+New best model found with loss= 0.194
+Epoch [1/20], TRAIN loss: 0.15
+Epoch [2/20], VALID loss: 0.17, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.167
+Epoch [2/20], TRAIN loss: 0.13
+Epoch [3/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.163
+Epoch [3/20], TRAIN loss: 0.14
+Epoch [4/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.160
+Epoch [4/20], TRAIN loss: 0.13
+Epoch [5/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.157
+Epoch [5/20], TRAIN loss: 0.13
+Epoch [6/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.153
+Epoch [6/20], TRAIN loss: 0.13
+Epoch [7/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [7/20], TRAIN loss: 0.13
+Epoch [8/20], VALID loss: 0.14, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.141
+Epoch [8/20], TRAIN loss: 0.12
+Epoch [9/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [9/20], TRAIN loss: 0.13
+Epoch [10/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [10/20], TRAIN loss: 0.12
+Epoch [11/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [11/20], TRAIN loss: 0.12
+Epoch [12/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [12/20], TRAIN loss: 0.12
+Epoch [13/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [13/20], TRAIN loss: 0.12
+Epoch [14/20], VALID loss: 0.14, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.137
+Epoch [14/20], TRAIN loss: 0.12
+Epoch [15/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [15/20], TRAIN loss: 0.13
+Epoch [16/20], VALID loss: 0.15, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [16/20], TRAIN loss: 0.12
+Epoch [17/20], VALID loss: 0.15, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [17/20], TRAIN loss: 0.12
+Epoch [18/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [18/20], TRAIN loss: 0.12
+Epoch [19/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [19/20], TRAIN loss: 0.12
+Loaded model from epoch: 14.0
+Running final evaluation on the best checkpoint.
+Epoch [19/20], VAL loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Number of free parameters: 32866
+Tolerant
+Epoch [0/20], VALID loss: 0.30, Accuracy Mean: 0.01, Accuracy RNDM: 0.01
+New best model found with loss= 0.304
+Epoch [0/20], TRAIN loss: 0.19
+Epoch [1/20], VALID loss: 0.17, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+New best model found with loss= 0.175
+Epoch [1/20], TRAIN loss: 0.15
+Epoch [2/20], VALID loss: 0.17, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+Epoch [2/20], TRAIN loss: 0.13
+Epoch [3/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.163
+Epoch [3/20], TRAIN loss: 0.13
+Epoch [4/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.154
+Epoch [4/20], TRAIN loss: 0.13
+Epoch [5/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.150
+Epoch [5/20], TRAIN loss: 0.13
+Epoch [6/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [6/20], TRAIN loss: 0.13
+Epoch [7/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [7/20], TRAIN loss: 0.13
+Epoch [8/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [8/20], TRAIN loss: 0.12
+Epoch [9/20], VALID loss: 0.17, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [9/20], TRAIN loss: 0.13
+Epoch [10/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.146
+Epoch [10/20], TRAIN loss: 0.12
+Epoch [11/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [11/20], TRAIN loss: 0.12
+Epoch [12/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+New best model found with loss= 0.137
+Epoch [12/20], TRAIN loss: 0.12
+Epoch [13/20], VALID loss: 0.18, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [13/20], TRAIN loss: 0.12
+Epoch [14/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [14/20], TRAIN loss: 0.12
+Epoch [15/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [15/20], TRAIN loss: 0.12
+Epoch [16/20], VALID loss: 0.14, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [16/20], TRAIN loss: 0.12
+Epoch [17/20], VALID loss: 0.15, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Epoch [17/20], TRAIN loss: 0.12
+Epoch [18/20], VALID loss: 0.15, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Stopping due to early stopping after epoch 18!
+Loaded model from epoch: 12.0
+Running final evaluation on the best checkpoint.
+Epoch [18/20], VAL loss: 0.15, Accuracy Mean: 0.08, Accuracy RNDM: 0.01
+Number of free parameters: 32866
+Moderate
+Epoch [0/20], VALID loss: 0.28, Accuracy Mean: 0.01, Accuracy RNDM: 0.01
+New best model found with loss= 0.277
+Epoch [0/20], TRAIN loss: 0.22
+Epoch [1/20], VALID loss: 0.19, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+New best model found with loss= 0.187
+Epoch [1/20], TRAIN loss: 0.15
+Epoch [2/20], VALID loss: 0.17, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.171
+Epoch [2/20], TRAIN loss: 0.15
+Epoch [3/20], VALID loss: 0.17, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.167
+Epoch [3/20], TRAIN loss: 0.14
+Epoch [4/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.162
+Epoch [4/20], TRAIN loss: 0.13
+Epoch [5/20], VALID loss: 0.15, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.154
+Epoch [5/20], TRAIN loss: 0.14
+Epoch [6/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.153
+Epoch [6/20], TRAIN loss: 0.14
+Epoch [7/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.151
+Epoch [7/20], TRAIN loss: 0.13
+Epoch [8/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.149
+Epoch [8/20], TRAIN loss: 0.13
+Epoch [9/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.148
+Epoch [9/20], TRAIN loss: 0.14
+Epoch [10/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [10/20], TRAIN loss: 0.13
+Epoch [11/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [11/20], TRAIN loss: 0.13
+Epoch [12/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [12/20], TRAIN loss: 0.13
+Epoch [13/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [13/20], TRAIN loss: 0.13
+Epoch [14/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [14/20], TRAIN loss: 0.13
+Epoch [15/20], VALID loss: 0.14, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+New best model found with loss= 0.138
+Epoch [15/20], TRAIN loss: 0.13
+Epoch [16/20], VALID loss: 0.16, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [16/20], TRAIN loss: 0.12
+Epoch [17/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [17/20], TRAIN loss: 0.13
+Epoch [18/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [18/20], TRAIN loss: 0.12
+Epoch [19/20], VALID loss: 0.15, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Epoch [19/20], TRAIN loss: 0.13
+Loaded model from epoch: 15.0
+Running final evaluation on the best checkpoint.
+Epoch [19/20], VAL loss: 0.14, Accuracy Mean: 0.07, Accuracy RNDM: 0.01
+Number of free parameters: 32866
+Strict
+Epoch [0/20], VALID loss: 0.30, Accuracy Mean: 0.01, Accuracy RNDM: 0.01
+New best model found with loss= 0.301
+Epoch [0/20], TRAIN loss: 0.28
+Epoch [1/20], VALID loss: 0.27, Accuracy Mean: 0.01, Accuracy RNDM: 0.01
+New best model found with loss= 0.267
+Epoch [1/20], TRAIN loss: 0.28
+Epoch [2/20], VALID loss: 0.27, Accuracy Mean: 0.02, Accuracy RNDM: 0.01
+Epoch [2/20], TRAIN loss: 0.25
+Epoch [3/20], VALID loss: 0.25, Accuracy Mean: 0.02, Accuracy RNDM: 0.01
+New best model found with loss= 0.245
+Epoch [3/20], TRAIN loss: 0.24
+Epoch [4/20], VALID loss: 0.21, Accuracy Mean: 0.02, Accuracy RNDM: 0.01
+New best model found with loss= 0.212
+Epoch [4/20], TRAIN loss: 0.21
+Epoch [5/20], VALID loss: 0.20, Accuracy Mean: 0.03, Accuracy RNDM: 0.01
+New best model found with loss= 0.199
+Epoch [5/20], TRAIN loss: 0.18
+Epoch [6/20], VALID loss: 0.19, Accuracy Mean: 0.03, Accuracy RNDM: 0.01
+New best model found with loss= 0.187
+Epoch [6/20], TRAIN loss: 0.19
+Epoch [7/20], VALID loss: 0.19, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+Epoch [7/20], TRAIN loss: 0.17
+Epoch [8/20], VALID loss: 0.17, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+New best model found with loss= 0.173
+Epoch [8/20], TRAIN loss: 0.18
+Epoch [9/20], VALID loss: 0.18, Accuracy Mean: 0.04, Accuracy RNDM: 0.01
+Epoch [9/20], TRAIN loss: 0.18
+Epoch [10/20], VALID loss: 0.17, Accuracy Mean: 0.05, Accuracy RNDM: 0.01
+New best model found with loss= 0.169
+Epoch [10/20], TRAIN loss: 0.17
+Epoch [11/20], VALID loss: 0.16, Accuracy Mean: 0.05, Accuracy RNDM: 0.01
+New best model found with loss= 0.162
+Epoch [11/20], TRAIN loss: 0.16
+Epoch [12/20], VALID loss: 0.16, Accuracy Mean: 0.05, Accuracy RNDM: 0.01
+Epoch [12/20], TRAIN loss: 0.16
+Epoch [13/20], VALID loss: 0.17, Accuracy Mean: 0.05, Accuracy RNDM: 0.01
+Epoch [13/20], TRAIN loss: 0.17
+Epoch [14/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+Epoch [14/20], TRAIN loss: 0.16
+Epoch [15/20], VALID loss: 0.15, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.154
+Epoch [15/20], TRAIN loss: 0.16
+Epoch [16/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+Epoch [16/20], TRAIN loss: 0.15
+Epoch [17/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+Epoch [17/20], TRAIN loss: 0.15
+Epoch [18/20], VALID loss: 0.14, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+New best model found with loss= 0.144
+Epoch [18/20], TRAIN loss: 0.16
+Epoch [19/20], VALID loss: 0.16, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
+Epoch [19/20], TRAIN loss: 0.14
+Loaded model from epoch: 18.0
+Running final evaluation on the best checkpoint.
+Epoch [19/20], VAL loss: 0.15, Accuracy Mean: 0.06, Accuracy RNDM: 0.01
